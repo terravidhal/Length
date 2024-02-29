@@ -20,6 +20,4 @@ class SLL {
     }
     return count;
   }
-
-  // Other methods of the SLL class (not shown for brevity)
 }
